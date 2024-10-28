@@ -14,10 +14,10 @@ header {
 .topphoto {
     color: #808080;
     font-size: 11px;
-    tex
+   
 } 
 
-author-link {
+.author-link {
     color: #20A9E5;
 }
 
@@ -36,4 +36,25 @@ author-link {
 
 .didasc {
     font-size: 14px;
+}
+
+mark {
+    background-color: yellow;
+}
+
+.cell-bigger {
+    width: 60%;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: #20A9E5;
+    color: white;
+}
+
+.colortab {
+    background-color:  #B1E5F2;
 }
