@@ -28,7 +28,6 @@ header {
 }
 
 .timimg {
-    align-content:normal;
     display: flex;
     height: auto;
     width: auto;
@@ -47,10 +46,12 @@ mark {
 }
 
 table {
+    border-collapse: collapse;
     width: 100%;
 }
 
 thead {
+    text-align: left;
     background-color: #20A9E5;
     color: white;
 }
