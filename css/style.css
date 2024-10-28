@@ -58,3 +58,19 @@ thead {
 .colortab {
     background-color:  #B1E5F2;
 }
+
+.box-img {
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 22px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.box-imgg {
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 22px;
+    background-image: url(../img/graph.jpg);
+}
