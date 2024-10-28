@@ -4,7 +4,6 @@ header {
     background-color: #4EA0FF;
     background-image: url('../img/pattern.png');
     background-size: 12%;
-    
 }
 
 .logo {
@@ -12,4 +11,29 @@ header {
     height: 35px;
 }
 
-    
+.topphoto {
+    color: #808080;
+    font-size: 11px;
+    tex
+} 
+
+author-link {
+    color: #20A9E5;
+}
+
+.mins {
+    color: #808080;
+    font-size: 7px;
+   
+}
+
+.timimg {
+    align-content:normal;
+    display: flex;
+    height: auto;
+    width: auto;
+}
+
+.didasc {
+    font-size: 14px;
+}
